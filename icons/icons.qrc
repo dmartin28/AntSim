@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/myicons">
+        <file>ant image.png</file>
+        <file>ant image2.png</file>
+        <file>ant with food image.png</file>
+    </qresource>
+</RCC>
